@@ -1,0 +1,10 @@
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\bin\Release\Ping_pong_2.exe.config
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\bin\Release\Ping_pong_2.exe
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\bin\Release\Ping_pong_2.pdb
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.csprojAssemblyReference.cache
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.Form1.resources
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.Properties.Resources.resources
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.csproj.GenerateResource.cache
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.exe
+C:\Users\Александр\YandexDisk\Projects C#\Ping_pong_2\obj\Release\Ping_pong_2.pdb
